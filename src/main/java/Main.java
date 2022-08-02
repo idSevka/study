@@ -62,5 +62,4 @@ public class Main {
         students.add(new Student(null, 131));
     }
 
-
 }
